@@ -171,6 +171,15 @@ FROM CustomerInfoForGreaterThan25Yrs
 
 --Recall the revision video of sql level 1
 
+--الديستينكت بتيجي بعد او مع السيليييكت علطوووول
+--SELECT DISTINCT [ANY THING]
+--FROM [ANY THING]
+--WHERE [ANY CONDITION] --> ممكن تستخدم كونديشن علي حسب محتاج تعرض ايه و ممكن متستخدمهوش
+
+-- CITY LIKE '%---'  OR  CITY LIKE '%---'  OR  CITY LIKE '%---'  OR  CITY LIKE '%---'  ---> كدة صح
+-- CITY LIKE '%---'  OR  LIKE '%---'  OR  LIKE '%---'  OR  LIKE '%---'  ---> كدة غلط
+
+
 --بس كدة
 
 
