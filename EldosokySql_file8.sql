@@ -169,5 +169,8 @@ FROM CustomerInfoForGreaterThan25Yrs
 
 --ممكن تطبق اكتر علي الالتر و الابديت و الديليت و الانسيرت لل فيو
 
+--Recall the revision video of sql level 1
 
 --بس كدة
+
+
