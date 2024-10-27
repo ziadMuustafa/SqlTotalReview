@@ -181,6 +181,10 @@ FROM CustomerInfoForGreaterThan25Yrs
 
 --SUBSTR(STRING , START , LENGTH) --> Built in function in MySql no in Sql server
 
+--راجع و شوف فيدويهات المراجعة الي اخر كورس 1
+--Revision 1 , 2 , 3
+
+
 
 --بس كدة
 
