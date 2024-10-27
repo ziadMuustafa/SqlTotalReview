@@ -179,6 +179,8 @@ FROM CustomerInfoForGreaterThan25Yrs
 -- CITY LIKE '%---'  OR  CITY LIKE '%---'  OR  CITY LIKE '%---'  OR  CITY LIKE '%---'  ---> كدة صح
 -- CITY LIKE '%---'  OR  LIKE '%---'  OR  LIKE '%---'  OR  LIKE '%---'  ---> كدة غلط
 
+--SUBSTR(STRING , START , LENGTH) --> Built in function in MySql no in Sql server
+
 
 --بس كدة
 
